@@ -3,9 +3,6 @@
 ## Overview
 In this reading group, we will focus primarily on **topic models**, **neural networks** and **multimodal modelling** in the context of natural language processing theory and application.
 
-## Past presentations
-[Past paper presentations](https://github.com/MaximilianAhrens/nlp_reading_group/tree/main/past_presentations)
-
 ## Schedule
 
 | Date      | Paper | Presenter        |
@@ -16,6 +13,8 @@ In this reading group, we will focus primarily on **topic models**, **neural net
 | 07/01/21      | tbd   |    |        | 
 
 
+## Past presentations
+[Past paper presentations](https://github.com/MaximilianAhrens/nlp_reading_group/tree/main/past_presentations)
 
 ## Suggested papers to present
 Here is a list of relevant papers for some inspirations. However, please feel free to branch out.
