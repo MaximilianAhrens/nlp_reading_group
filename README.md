@@ -5,7 +5,9 @@
 ## Past presentations
 
 ## Schedule
-| Date   |      Paper      |  Link | Presenter|
-|----------|:-------------:|------:|
-| 26/11/20 |  Adapting Text Embeddings for Causal Inference | https://arxiv.org/abs/1905.12741 | Julian
-| 10/12/20 | NTMs | | Max
+
+| Date      | Paper   | Link    | Presenter        |
+|-------|----|----|--------|---|
+| 26/11 | Adapting Text Embeddings for Causal Inference | [paper](https://arxiv.org/abs/1905.12741) | Julian | 
+| 10/12 | t2 | l2 | Max    | 
+|       |    |    |        | 
