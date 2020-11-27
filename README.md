@@ -1,8 +1,10 @@
 # NLP Reading Group @Oxford-Man-Institue
 
 ## Overview
+In this reading group, we will focus primarily on **topic models**, **neural networks** and **multimodal modelling** in the context of natural language processing theory and application.
 
 ## Past presentations
+[Past paper presentations](https://github.com/MaximilianAhrens/nlp_reading_group/tree/main/past_presentations)
 
 ## Schedule
 
@@ -16,7 +18,7 @@
 
 
 ## Suggested papers to present
-We are focussing primarily on **topic models**, **neural networks** and **multimodal modelling**. Here is a list of relevant papers for some inspirations. However, please feel free to branch out.
+Here is a list of relevant papers for some inspirations. However, please feel free to branch out.
 
 ### Neural network models:							
 - Attention Is All You Need (Neurips 2017)					https://arxiv.org/abs/1706.03762		
