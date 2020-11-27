@@ -1,2 +1,2 @@
-# nlp_reading_group
-NLP reading group @OMI Oxford
+# NLP Reading Group @Oxford-Man-Institue
+
