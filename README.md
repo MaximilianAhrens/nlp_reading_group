@@ -11,6 +11,8 @@ In this reading group, we will focus primarily on **topic models**, **neural net
 | 10/12/20 | Neural Topic Model with Attention for Supervised Learning ([paper](http://proceedings.mlr.press/v108/wang20c.html)) | Max | 
 |    | winter break   |    |        | 
 | 21/01/21 |Variational Inference: A Review for Statisticians([paper](https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1285773)) | Max | 
+| 11/02/21 | tbd  | tbd | 
+| 25/02/21 | tbd  | tbd | 
 
 
 ## Past presentations
