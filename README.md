@@ -2,8 +2,8 @@
 
 ## Overview
 This reading group focusses on **natural language processing for economics and finance**. Our aim will be to covering foundational papers such as different architectures of **transformers and attention structures** as well as on intersections of such NLP methods with e.g.:
-**1. language model numeracy**,
-**2. knowledge graphs and correlation matrices**,
+#### 1. language model numeracy,
+#### 2. knowledge graphs and correlation matrices,
 **3. cross-document/cross-dataset learning**,
 **4. multi-modal learning**
 
