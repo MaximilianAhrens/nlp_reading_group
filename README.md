@@ -9,8 +9,8 @@ Please follow this [link](https://docs.google.com/spreadsheets/d/1JRLVjACJ18J6pX
 
 | Date      | Paper | Presenter        |
 |-------|----|----|
-| 14/01/2022 | Relational World Knowledge Representation in Contextual Language Models (EMNLP 2021), [paper](https://aclanthology.org/2021.emnlp-main.81/) | tbd
-| 28/01/2022 | Representing Numbers in NLP: a Survey and a Vision (NAACL 2021), [paper](https://aclanthology.org/2021.naacl-main.53.pdf) | tbd
+| 14/01/2022 | Relational World Knowledge Representation in Contextual Language Models (EMNLP 2021), [paper](https://aclanthology.org/2021.emnlp-main.81/) | Dragos
+| 28/01/2022 | Representing Numbers in NLP: a Survey and a Vision (NAACL 2021), [paper](https://aclanthology.org/2021.naacl-main.53.pdf) | Max
 | 11/02/2022 | tbd | tbd
 
 
