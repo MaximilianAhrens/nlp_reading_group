@@ -2,7 +2,7 @@
 
 ## Overview
 This reading group focusses on **natural language processing for economics and finance**. Our aim will be to covering foundational papers such as different architectures of **transformers and attention structures** as well as on intersections of such NLP methods with e.g.
-**(1) language model numeracy, (2) knowledge graphs and correlation matrices, (3) cross-document/cross-dataset learning, (4) multi-modal learning**.
+**language model numeracy, knowledge graphs and correlation matrices, cross-document/cross-dataset learning, financial modelling, or multi-modal learning**.
 
 ## Schedule
 
@@ -17,18 +17,26 @@ This reading group focusses on **natural language processing for economics and f
 Here is a list of relevant papers for some inspiration. However, please feel free to suggest any paper that is somewhat related to one of the below categories.
 
 ### 1. General language model and attention architecture papers:							
-- Attention Is All You Need (Neurips 2017)					https://arxiv.org/abs/1706.03762		
-- Longformer: The Long-Document Transformer (arXiv 2020 (AllenAI))					https://arxiv.org/abs/2004.05150		
-- Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks (EMNLP 2020)					https://arxiv.org/abs/1908.10084	
+- Attention Is All You Need (Neurips 2017), [paper](https://arxiv.org/abs/1706.03762)
+- Longformer: The Long-Document Transformer (arXiv 2020 (AllenAI)),	[paper](https://arxiv.org/abs/2004.05150)
+- Big Bird: Transformers for Longer Sequences, [paper](BigBird: https://arxiv.org/abs/2007.14062)
+- Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks (EMNLP 2020), [paper](https://arxiv.org/abs/1908.10084)
 
 ### 2. NLP & model numeracy:
-- Representing Numbers in NLP: a Survey and a Vision (NAACL 2021) [paper](https://aclanthology.org/2021.naacl-main.53.pdf)
+- Representing Numbers in NLP: a Survey and a Vision (NAACL 2021), [paper](https://aclanthology.org/2021.naacl-main.53.pdf)
+- Exploring Numeracy in Word Embeddings (ACL 2020), [paper](https://aclanthology.org/P19-1329/)
+- Numeracy-600K: Learning Numeracy for Detecting Exaggerated Information in Market Comments (ACL 2019), [paper](https://aclanthology.org/P19-1635/)
+- Numeracy for Language Models: Evaluating and Improving their Ability to Predict Numbers (ACL 2018), [paper](https://arxiv.org/abs/1805.08154)
 
 ### 3. NLP & relational world knowledge:
 - Relational World Knowledge Representation in Contextual Language Models: A Review (EMNLP 2021) [paper](https://aclanthology.org/2021.emnlp-main.81/) 
 
 ### 4. NLP & cross-document/cross-dataset learning:
 - CDLM: Cross-Document Language Modeling (EMNLP 2021, Findings) [paper](https://aclanthology.org/2021.findings-emnlp.225/)
+
+### 4. NLP & financial modelling:
+- FinBERT
+- K-BERT
 
 ### 5. Multimodal modelling:
 - Supervised Multimodal Bitransformers for Classifying Images and Text https://arxiv.org/abs/1909.02950
