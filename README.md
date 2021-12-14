@@ -5,6 +5,7 @@ This reading group focusses on **natural language processing for economics and f
 **language model numeracy, knowledge graphs and correlation matrices, cross-document/cross-dataset learning, financial modelling, or multi-modal learning**.
 
 ## Schedule
+Please follow this [link](https://docs.google.com/spreadsheets/d/1JRLVjACJ18J6pXxvVQDVGnP6V4eDV1d3wHyjJ1mpSak/edit?usp=sharing) to add yourself to the presentation list.
 
 | Date      | Paper | Presenter        |
 |-------|----|----|
