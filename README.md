@@ -14,7 +14,7 @@ This reading group focusses on **natural language processing for economics and f
 
 
 ## Suggested papers to present
-Here is a list of relevant papers for some inspirations. However, please feel free to branch out.
+Here is a list of relevant papers for some inspiration. However, please feel free to suggest any paper that is somewhat related to one of the below categories.
 
 ### 1. General language model and attention architecture papers:							
 - Attention Is All You Need (Neurips 2017)					https://arxiv.org/abs/1706.03762		
