@@ -11,8 +11,10 @@ Please follow this [link](https://docs.google.com/spreadsheets/d/1JRLVjACJ18J6pX
 |-------|----|----|
 | 28/01/2022 | Relational World Knowledge Representation in Contextual Language Models (EMNLP 2021), [paper](https://aclanthology.org/2021.emnlp-main.81/) | Dragos
 | 04/02/2022 | Representing Numbers in NLP: a Survey and a Vision (NAACL 2021), [paper](https://aclanthology.org/2021.naacl-main.53.pdf) | Felix
-| 11/02/2022 | Multimodal fusion with text data (paper tbd) | Max
-| 18/02/2022 | tbd | tbd
+| 11/02/2022 | Integrating Multimodal Information in Large Pretrained Transformers [paper](https://aclanthology.org/2020.acl-main.214/) | Max
+| 18/02/2022 | tbd | 
+| 25/02/2022 | tbd | 
+
 
 
 ## Suggested papers to present
