@@ -13,7 +13,7 @@ Please follow this [link](https://docs.google.com/spreadsheets/d/1JRLVjACJ18J6pX
 | 04/02/2022 | Representing Numbers in NLP: a Survey and a Vision (NAACL 2021), [paper](https://aclanthology.org/2021.naacl-main.53.pdf) | Felix
 | 11/02/2022 | Integrating Multimodal Information in Large Pretrained Transformers (ACL 2020), [paper](https://aclanthology.org/2020.acl-main.214/) | Max
 | 18/02/2022 | ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks (Neurips 2019), [paper](https://proceedings.neurips.cc/paper/2019/file/c74d97b01eae257e44aa9d5bade97baf-Paper.pdf) | Debbie
-| 25/02/2022 | tbd | 
+| 25/02/2022 | KG-BERT: BERT for Knowledge Graph Completion (arXiv 2019), [paper](https://arxiv.org/pdf/1909.03193.pdf) | Dragos
 | 04/03/2022 | tbd | 
 | 11/03/2022 | tbd | 
 
